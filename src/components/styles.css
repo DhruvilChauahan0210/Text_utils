@@ -1,0 +1,27 @@
+/* styles.css */
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .dark-mode-textarea {
+    background-color: #444;
+    color: #fff;
+  }
+  .fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure navbar appears on top of other content */
+  }
+  /* styles.css */
+  
+  .light-mode-text {
+      color: blue;
+    }
+    
+    .dark-mode-text {
+      color: cyan;
+    }
+    
